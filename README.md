@@ -62,7 +62,7 @@ Automated video summarization tool with multi-language support using Google Gemi
 
 ## 📊 GitHub Stats
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinmaynaik-hub&show_icons=true&theme=radical)
+![Chinmay's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chinmaynaik-hub&show_icons=true&theme=radical)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaynaik-hub&layout=compact&theme=radical)
