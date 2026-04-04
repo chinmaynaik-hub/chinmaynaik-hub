@@ -27,20 +27,20 @@ Teamwork • Problem Solving • Communication • Collaborative Development
 
 ## 💼 Featured Projects
 
-### 🧘 [AI Yoga Posture Detection & Correction](https://github.com/chinmaynaik-hub/yoga-trainer-app)
+### 🧘 [AI Yoga Posture Detection & Correction](https://github.com/Bheemangowda2405/yoga-trainer-using-aiml)
 A real-time AI yoga instructor using MediaPipe and Deep Neural Networks for live posture detection and correction.
 - Built with Python, Flask, TensorFlow, and Keras
 - Developed interactive dashboard with progress tracking and user authentication
 - Implemented computer vision techniques for accurate pose estimation
 - **Tech Stack:** Python • TensorFlow • Keras • OpenCV • Flask • JavaScript
 
-### 🚗 [QR Code Driving License System](https://github.com/chinmaynaik-hub/qr-driving-license)
+### 🚗 [QR Code Driving License System](https://github.com/chinmaynaik-hub/QRbased-drivinglicense)
 A digital license creation platform with dynamic QR code generation and secure data management.
 - Designed comprehensive MySQL database schema
 - Implemented robust validation rules for data integrity
 - **Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
 
-### 📹 [YouTube Transcript Summarizer](https://github.com/chinmaynaik-hub/youtube-summarizer)
+### 📹 [YouTube Transcript Summarizer](https://github.com/chinmaynaik-hub/Youtube-transcript-summarizer)
 Automated video summarization tool with multi-language support using Google Gemini API.
 - Reduced user analysis time by over 50%
 - Multi-language support (Kannada, Telugu, Tamil, Malayalam)
